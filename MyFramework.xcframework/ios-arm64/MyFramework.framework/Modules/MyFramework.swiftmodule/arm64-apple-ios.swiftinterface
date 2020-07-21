@@ -13,3 +13,9 @@ import UIKit
   @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
 }
+@objc @_inheritsConvenienceInitializers public class NewVC : UIKit.UIViewController {
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  public func create()
+  @objc deinit
+}
