@@ -9,6 +9,7 @@ import UIKit
 @objc @_hasMissingDesignatedInitializers public class LoginViewController : UIKit.UIViewController {
   @objc dynamic public init()
   @objc override dynamic public func viewDidLoad()
+  public func initApp()
   @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
 }

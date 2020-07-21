@@ -18,7 +18,7 @@
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		7eKquwsXjTnuEFWOdrKNjpkUDfU=
+		ngvrwvE5GOubF0XBvnH5R4zI3cE=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		459szGigRcZZ+77i8AJGMfPO+q4=
+		adPdJTd2KwdaOSZVD4vx+NdyKHA=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UXXwoe6bWJ7BlHYIKUS0KVWFH+4=
+		Y1qRpgQ/nf3/ezsN2GMhM9L+2ZY=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		459szGigRcZZ+77i8AJGMfPO+q4=
+		adPdJTd2KwdaOSZVD4vx+NdyKHA=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		UXXwoe6bWJ7BlHYIKUS0KVWFH+4=
+		Y1qRpgQ/nf3/ezsN2GMhM9L+2ZY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,7 +69,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			npU5REisOeebBGYBgILZPxQ1Mlb6F4f5tWbObvEhKW8=
+			nsQ2mZm6ica9Acfs1ljgaZKPs0I/MG4Q4d4cM+kCEt8=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -83,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7LYZbYiNYsOgKFPGh5pK2qdAcZiQ8I+Kv+9bgsa3rTE=
+			C0q3RJShEXVjtbHY6TZMQpgflJTXiPhubyZAvizAVww=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bElZK6jgcrgomdSJwSSmz5K1WwwTKVBeaofuJ2zDmV8=
+			WcW27cZLPhG3W0OVDz5zLalzVAZAdVzxB2/Asaf3vAc=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -104,14 +104,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7LYZbYiNYsOgKFPGh5pK2qdAcZiQ8I+Kv+9bgsa3rTE=
+			C0q3RJShEXVjtbHY6TZMQpgflJTXiPhubyZAvizAVww=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bElZK6jgcrgomdSJwSSmz5K1WwwTKVBeaofuJ2zDmV8=
+			WcW27cZLPhG3W0OVDz5zLalzVAZAdVzxB2/Asaf3vAc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
